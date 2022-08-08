@@ -6,11 +6,15 @@
 
 1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
 
- * Variables
- * Strings
- * Funciones (argumentos, `return`)
- * Declaraciones `if`
- * Valores booleanos (`true`, `false`)
+ * Variables: Es una palabra utilizada en programación, la cual varía o cambia de acuerdo a una asignación que 
+se haga sobre ella.
+ * Strings:En programación es una palabra o cadena de letras.
+ * Funciones (argumentos, `return`): En programación es una manera de agrupar una tarea o acción que permite ser utilizada
+cuando se requiera.
+ * Declaraciones `if`: En programación es una palabra condicional que indica lo que se debe hacer si se cumple la acción
+que se debe hacer.
+ * Valores booleanos (`true`, `false`): En programación los valores booleanos indican si es verdad o no que se cumple 
+una acción.
 
 2. Instalar Node y NPM. NPM se incluye con Node. <https://nodejs.org/en/download/>
 
