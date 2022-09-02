@@ -4,8 +4,8 @@
 ---
 1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
 
-* `prototype`
-* _Constructors_ (de Clases)
+* `prototype`: Es una forma de agregar características a un objeto u objetos de una forma general para todos.
+* _Constructors_ (de Clases): es la manera en que se agrupa toda una familia de características que pueden tener los objetos.
 
 2. Desde la carpeta `Prep` en la carpeta donde clonaste el repo, ingresa el comando `npm test JSV.test.js` para correr los tests automatizados. Al principio, todos los tests estarán fallados/rotos. Encontrarás las funciones para hacer pasar los tests en el archivo `homework.js`.
 
