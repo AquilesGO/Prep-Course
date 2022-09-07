@@ -50,7 +50,8 @@ element.style {
 element.style {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-around;
+    flex-direction: row-reverse;
 }
 
 
